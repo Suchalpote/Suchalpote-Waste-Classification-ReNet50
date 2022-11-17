@@ -1,0 +1,1 @@
+# Suchalpote-Waste-Classification-ReNet50
